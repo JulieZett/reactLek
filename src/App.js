@@ -33,7 +33,7 @@ function App() {
  
   return (
     <div className="App">
-      <h2>K</h2>
+      <h2></h2>
     {(user.email != "") ? (
       <div classname="welcome">
         <h2>Velkommen, <span>{user.name}</span></h2>
